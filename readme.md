@@ -100,11 +100,10 @@ This tool is designed for security research and should be used responsibly. Alwa
 - Use appropriate delays between requests
 - Only scan domains you have permission to test
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
-```
+
+
+## Credit
+This tool was inspired by @coffinxp. Thanks to them for the great idea!
