@@ -1,6 +1,5 @@
-```
 # 🔍 WAFFER (Web Archive File Finder)
-```
+
 <p align="center">
   A powerful tool for finding sensitive files from Internet Archive's Wayback Machine (archive.org)
 </p>
