@@ -93,6 +93,27 @@ Extended set including:
 - Database files (.sql, .sqlite)
 - And many more...
 
+## 📥 Accessing Found Files
+
+After the tool finds URLs, you can access the archived files using these methods:
+
+1. **Direct Wayback Machine Access**:
+   - Take the found URL: `http://example.com/file.pdf`
+   - Visit: `https://web.archive.org/web/*/http://example.com/file.pdf`
+   - Select the snapshot date you want to view
+
+2. **Automated URL Format**:
+   - Format: `https://web.archive.org/web/<timestamp>/<url>`
+   - Example: `https://web.archive.org/web/20230101000000/http://example.com/file.pdf`
+
+3. **Latest Snapshot**:
+   - Use: `https://web.archive.org/web/2/http://example.com/file.pdf`
+   - This automatically redirects to the most recent archive
+
+4. **First Snapshot**:
+   - Use: `https://web.archive.org/web/0/http://example.com/file.pdf`
+   - This shows the oldest archived version
+
 ## ⚠️ Disclaimer
 
 This tool is designed for security research and should be used responsibly. Always:
