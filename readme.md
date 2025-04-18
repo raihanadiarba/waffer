@@ -24,7 +24,7 @@ WAFFER is a multi-threaded tool designed to search and retrieve files from the W
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/waffer.git
+git clone https://github.com/raihanadiarba/waffer.git
 cd waffer
 ```
 
